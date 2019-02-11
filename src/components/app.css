@@ -1,0 +1,11 @@
+body {
+  margin-top: 5px;
+}
+
+.menu {
+  margin-bottom: 20px;
+}
+
+.ui.popup {
+  max-width: 350px;
+}
